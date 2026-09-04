@@ -1,0 +1,128 @@
+Company Knowledge Base
+Company Overview
+
+Acme Technologies is a fictional software company founded in 2018. The company develops productivity software for small and medium-sized businesses.
+
+The company headquarters are located in Berlin, Germany.
+
+Acme Technologies currently has approximately 120 employees.
+
+The company's main product is called AcmeFlow. AcmeFlow is a project management and collaboration platform designed to help teams organize tasks, manage projects, communicate with colleagues, and track deadlines.
+
+AcmeFlow
+
+AcmeFlow was launched in 2021.
+
+The platform provides several features:
+
+Project management
+Task management
+Team collaboration
+File sharing
+Deadline tracking
+Activity notifications
+Project dashboards
+
+AcmeFlow supports teams ranging from 2 to 500 users.
+
+The standard AcmeFlow plan costs €15 per user per month.
+
+The enterprise plan is available for organizations with more than 500 users. Enterprise pricing is negotiated individually with the customer.
+
+Customer Support
+
+Acme Technologies provides customer support from Monday to Friday.
+
+Support hours are 09:00 to 18:00 Central European Time.
+
+Customers can contact support through email or through the support portal.
+
+The standard support response target is within 24 hours.
+
+Enterprise customers receive priority support with a target response time of 4 hours.
+
+Data Storage
+
+AcmeFlow stores customer project data in encrypted databases.
+
+Customer data is backed up every 24 hours.
+
+Backups are retained for 30 days.
+
+Acme Technologies uses servers located within the European Union for its European customers.
+
+Security
+
+Acme Technologies requires employees to use multi-factor authentication when accessing internal systems.
+
+Customer connections to AcmeFlow are protected using HTTPS.
+
+Passwords are stored using secure one-way hashing.
+
+Security audits are performed once every year.
+
+Company Vacation Policy
+
+Full-time employees receive 30 days of paid vacation per calendar year.
+
+Employees must request vacation at least two weeks in advance.
+
+Vacation requests are submitted through the company's internal HR portal.
+
+Unused vacation days can be carried over into the following year, but no more than 10 days can be carried over.
+
+Office
+
+The Berlin headquarters is open from 08:00 to 19:00 Monday through Friday.
+
+The office is closed on weekends.
+
+Employees can work remotely up to three days per week.
+
+Management
+
+The Chief Executive Officer of Acme Technologies is Sarah Miller.
+
+The Chief Technology Officer is David Chen.
+
+The Head of Customer Support is Elena Schmidt.
+
+The Head of Human Resources is Michael Weber.
+
+Product Roadmap
+
+Acme Technologies plans to release a mobile version of AcmeFlow in 2027.
+
+The mobile application is planned for both Android and iOS.
+
+The company is also planning to introduce AI-powered project summaries.
+
+The AI project summary feature is currently planned for the second quarter of 2027.
+
+Important Numbers
+
+Company founded: 2018
+
+Employees: approximately 120
+
+AcmeFlow launched: 2021
+
+Standard plan: €15 per user per month
+
+Standard support response target: 24 hours
+
+Enterprise support response target: 4 hours
+
+Database backup frequency: every 24 hours
+
+Backup retention: 30 days
+
+Employee vacation: 30 days per year
+
+Maximum vacation carry-over: 10 days
+
+Remote work: maximum 3 days per week
+
+Planned mobile application: 2027
+
+Planned AI project summaries: Q2 2027
